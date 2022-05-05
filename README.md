@@ -1,4 +1,4 @@
-Dockerfile for RaspberryPi Pico.
+Dockerfile for RaspberryPi Pico (C/C++).
 
 ## Usage 
 
